@@ -1,0 +1,9 @@
+body {background-color: black;}
+i{color: white;}
+.myForm {margin: 0 auto; width: 1150px; height: 800px; background-color: white; padding-top: 50px; border: 1px lightgray solid;}
+form {margin: 0 auto; width: 1000px; height: 572px; border: 1px lightgray solid; border-radius: 5px;} 
+h3 {height: 50px; padding: 10px; border-bottom: 1px lightgray solid;}
+.form-row {margin-left: 10px; margin-right: 10px;}
+#CardList {background-color: gray; height: 40px; border-radius: 5px; padding-top: 5px; padding-left: 15px;}
+.ButtonFooter{ height: 63px; margin-top: 30px; padding-right:10px; padding-top: 10px; padding-bottom: 10px; text-align: right;}
+#alert {margin-top: 10px;}
